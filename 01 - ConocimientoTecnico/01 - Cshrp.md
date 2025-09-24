@@ -129,4 +129,95 @@
         ```
 
 6. **_¿Qué diferencia hay entre `==` y `Equals()`?_**
-    - **_R._** La diferencia entre el operador `==` y el método `Equals()` depende netamente del tipo de dato el cual se esté comparando: Value y Reference Type.
+    - **_R._** La diferencia entre el operador `==` y el método `Equals()` depende netamente del tipo de dato el cual se esté comparando: Value o Reference Type.
+
+    | **_Característica_**           | **_Operador `==`_**                                               | **_Método `Equals()`_**                                                                                      |
+    |--------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+    | **Comportamiento por defecto** | Compara la referencia en tipos de referencia.                     | Compara la referencia en tipos de referencia.                                                                |
+    | **Tipos de valor**             | Compara el valor.                                                 | Compara el valor.                                                                                            |
+    | **Tipos de referencia**        | Por defecto compara la referencia, a menos que esté sobrecargado. | Por defecto compara la referencia, pero se puede anular para comparar el valor.                              |
+    | **Strings**                    | Compara el valor (comportamiento sobrecargado).                   | Compara el valor (comportamiento anulado).                                                                   |
+    | **Anulación/Sobrecarga**       | Puede ser sobrecargado para tipos personalizados.                 | Puede ser anulado (`override`) en clases personalizadas.                                                     |
+    | **Null**                       | Es seguro comparar con `null` (`myObjeto == null`).               | Lanzará una `NullReferenceException` si el objeto sobre el que se llama es `null` (`myObjeto.Equals(null)`). |
+
+    ```cs
+    // EJEMPLO DE OPERADOR Y MÉTODO
+    string str1 = "Honeywell";
+    string str2 = "Honeywell";
+    string str3 = new string (new char[] {'H', 'o', 'n', 'e', 'y', 'w', 'e', 'l', 'l'});
+
+    /* Ambas comparaciones devuelven "true" porque el contenido es identico,
+    aunque str1 & str3 sean objetos diferentes en la memoria. */
+    bool Op = (str1 == str2);
+    bool Met = str1.Equals(str3);
+    ```
+
+7. **_¿Cómo se declara una clase y un objeto en C#?_**
+    - **_R._** Una clase en C# es una plantilla que permite definir las caracteristicas (atributos o campos) y comportamientos (métodos) de un tipo de objeto.
+    La sintaxis básica para poder declarar una clase en C# es:
+        - **_´[ModificadorDeAcceso]´_**: Define la visibilidad de la clase. Los más comunes son ´public´ (accesible desde cualquier lugar) e ´internal´ (accesible solo dentro del mismo ensamblado).
+        - **_´class´_**: Es la palabra clave que indica que se está declarando una clase.
+        - **_´nombreDeLaClase´_**: Es el identificador único de la clase. La convención de nombres en C# sugiere usar PascalCase (la primera letra de cada palabra en mayúscula).
+
+    ```cs
+    // SINTAXIS BÁSICA DE UNA CLASE EN C#
+    [ModificadorDeAcceso] class NombreDeLaClase {
+        /* MIEMBROS DE LA CLASE
+        - Campos
+        - Propiedades
+        - Métodos
+        ...
+        - Etc.
+        */
+    }
+
+    // ----------------------------------------------------------------------------------
+
+    // DECLARACIÓN DE UNA CLASE EN C#
+    public class Coche {
+        //* MIEMBROS DE LA CLASE
+        // Atributos (Campos)
+        public string Color;
+        public string Marca;
+        public int VelocidadActual;
+
+        // Comportamiento (Métodos)
+        public void Acelerar() {
+            VelocidadActual += 10;
+            Console.WriteLine($"El coche acelera. Velocidad actual: {VelocidadActual}");
+        }
+
+        public void Frenar() {
+            VelocidadActual -= 10;
+            Console.WriteLine($"El coche frena. Velocidad actual: {VelocidadActual}");
+        }
+    }
+    ```
+
+    Mientras que un objeto es una instancia concreta de una clase. Para crear un objeto, se utiliza el operador ´new´. Este proceso se llama instanciación. La sintaxis para crear un objeto es:
+        - **_´NombreDeLaClase´_**: Es el tipo de dato del objeto..
+        - **_´nombreDelObjeto´_**: Es el nombre de la variable que contendrá la referencia al nuevo objeto.
+        - **_´new´_**: La palabra clave que asigna memoria para el nuevo objeto e invoca al constructor de la clase.
+
+    ```cs
+    // SINTAXIS BÁSICA DE UN OBJETO EN C#
+    NombreDeLaClase nombreDelObjeto = new NombreDeLaClase();
+
+    // ----------------------------------------------------------------------------------
+
+    // DECLARACIÓN DE UNA OBJETO EN C# Y USO DE SUS MIEMBROS
+    // Función principal en C#
+    public static void Main(string[] args) {
+        // Se declara y se instancia un objeto de la clase Coche
+        Coche miCoche = new Coche();
+
+        // Se accede a los atributos y se les asignan valores
+        miCoche.Marca = "Toyota";
+        miCoche.Color = "Rojo";
+
+        // Se llama a los métodos del objeto
+        miCoche.Acelerar(); // Muestra: "El coche acelera. Velocidad actual: 10"
+        miCoche.Acelerar(); // Muestra: "El coche acelera. Velocidad actual: 20"
+        miCoche.Frenar();   // Muestra: "El coche frena. Velocidad actual: 10"
+    }
+    ```
