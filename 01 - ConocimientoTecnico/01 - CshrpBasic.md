@@ -1,6 +1,6 @@
 # Conocimiento Técnico (C#) :purple_square:
 
-## Nivel básico :checkered_flag:
+## Nivel básico :baby:
 
 1. **_¿Qué es C# y en que se diferencia de C/C++?_**
     - **_R._** A diferencia de C/C++ que son lenguajes los cuales permiten tener un control más exhaustivo en bajo nivel sobre el hardware y la memoria, añadiendo a C++ la programación orientada a objetos (POO). C# es un lenguaje de alto nivel el orientado a objetos que tiene un recolector de basura para la gestión automatica de memoria y se ejecuta en la plataforma .NET
@@ -430,5 +430,5 @@
     | **Uso**                | Cadenas pequeñas, estáticas o que se modifican raramente                          | Operaciones intensivas de concatenación o modificación de texto     |
     | **Seguridad de hilos** | Seguro para hilos                                                                 | No es seguro para hilos por defecto                                 |
 
-[:link:](./00%20-%20Inicio.md) _Click aquí para regresar al inicio._
-[:link:](./00%20-%20Inicio.md) _Click aquí para el siguiente nivel._
+> [:link:](./00%20-%20Inicio.md) _Click aquí para regresar al inicio._
+> [:link:](./02%20-%20CshrpMid.md) _Click aquí para el siguiente nivel._
