@@ -3,8 +3,14 @@
 A continuación se presentan diversas preguntas técnicas organizadas de menor a mayor nivel de dificultad.  
 Su objetivo es servir como **guía de estudio** para quienes buscan prepararse para el puesto de **Software Engineer II / C# y C++ en Honeywell**.
 
-- [:link:](./01%20-%20Cshrp.md) **Conocimiento técnico en C#.**
-- [:link:](./02%20-%20C++.md) **Conocimiento técnico en C++.**
+- **Conocimiento técnico en C# :purple_square:**
+    - [:link:](./01%20-%20CshrpBasic.md) **Básico :baby:**
+    - [:link:](./02%20-%20CshrpMid.md) **Intermedio :boy:**
+    - [:link:](./03%20-%20CshrpAdv.md) **Avanzado :person_curly_hair:**
+    - [:link:](./04%20-%20CshrpExp.md) **Experto :man_technologist:**
+    - [:link:](./05%20-%20CshrpSith.md) **Lord Sith :japanese_ogre:**
+
+- **Conocimiento técnico en C++.**
 
 ---
 
