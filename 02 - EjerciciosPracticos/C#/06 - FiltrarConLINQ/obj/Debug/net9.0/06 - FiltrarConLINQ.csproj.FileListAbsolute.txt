@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\bin\Debug\net9.0\06 - FiltrarConLINQ.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\bin\Debug\net9.0\06 - FiltrarConLINQ.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\bin\Debug\net9.0\06 - FiltrarConLINQ.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\bin\Debug\net9.0\06 - FiltrarConLINQ.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\bin\Debug\net9.0\06 - FiltrarConLINQ.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\refint\06 - FiltrarConLINQ.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\06 - FiltrarConLINQ.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\06 - FiltrarConLINQ\obj\Debug\net9.0\ref\06 - FiltrarConLINQ.dll

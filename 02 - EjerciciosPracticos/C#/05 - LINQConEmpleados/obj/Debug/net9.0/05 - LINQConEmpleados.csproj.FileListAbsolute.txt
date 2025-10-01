@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\bin\Debug\net9.0\05 - LINQConEmpleados.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\bin\Debug\net9.0\05 - LINQConEmpleados.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\bin\Debug\net9.0\05 - LINQConEmpleados.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\bin\Debug\net9.0\05 - LINQConEmpleados.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\bin\Debug\net9.0\05 - LINQConEmpleados.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\refint\05 - LINQConEmpleados.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\05 - LINQConEmpleados.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\05 - LINQConEmpleados\obj\Debug\net9.0\ref\05 - LINQConEmpleados.dll

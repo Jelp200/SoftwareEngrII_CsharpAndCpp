@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\bin\Debug\net9.0\01 - InvertirCadena.cs.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\bin\Debug\net9.0\01 - InvertirCadena.cs.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\bin\Debug\net9.0\01 - InvertirCadena.cs.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\bin\Debug\net9.0\01 - InvertirCadena.cs.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\bin\Debug\net9.0\01 - InvertirCadena.cs.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\refint\01 - InvertirCadena.cs.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\01 - InvertirCadena.cs.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\01 - InvertirCadena.cs\obj\Debug\net9.0\ref\01 - InvertirCadena.cs.dll

@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\bin\Debug\net9.0\02 - Palindromo.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\bin\Debug\net9.0\02 - Palindromo.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\bin\Debug\net9.0\02 - Palindromo.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\bin\Debug\net9.0\02 - Palindromo.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\bin\Debug\net9.0\02 - Palindromo.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\refint\02 - Palindromo.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\02 - Palindromo.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\02 - Palindromo\obj\Debug\net9.0\ref\02 - Palindromo.dll

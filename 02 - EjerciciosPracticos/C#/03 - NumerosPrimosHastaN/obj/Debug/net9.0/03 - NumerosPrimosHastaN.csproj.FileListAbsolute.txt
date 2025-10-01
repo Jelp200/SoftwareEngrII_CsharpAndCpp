@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\bin\Debug\net9.0\03 - NumerosPrimosHastaN.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\bin\Debug\net9.0\03 - NumerosPrimosHastaN.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\bin\Debug\net9.0\03 - NumerosPrimosHastaN.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\bin\Debug\net9.0\03 - NumerosPrimosHastaN.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\bin\Debug\net9.0\03 - NumerosPrimosHastaN.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\refint\03 - NumerosPrimosHastaN.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\03 - NumerosPrimosHastaN.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\02 - EjerciciosPracticos\C#\03 - NumerosPrimosHastaN\obj\Debug\net9.0\ref\03 - NumerosPrimosHastaN.dll
