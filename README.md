@@ -1,6 +1,7 @@
 # Guía de Estudio — Software Engineer II / C# y C++ :bee:
 
-La presente guía de estudio ha sido elaborada con el propósito de apoyar a quienes deseen prepararse para el puesto de **Software Engineer II / C# y C++ en Honeywell**.
+La presente guía de estudio ha sido elaborada con el propósito de desarrollar temas y mostrar el conocimiento suficiente para el puesto de **Software Engineer II / C# y C++ en Honeywell**.
+
 El contenido se organiza en tres ejes principales:
 
 - [:link:](./01%20-%20ConocimientoTecnico/00%20-%20Inicio.md) **Conocimiento técnico (C#/C++).**
