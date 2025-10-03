@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\bin\Debug\net9.0\02 - AsyncAwait.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\bin\Debug\net9.0\02 - AsyncAwait.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\bin\Debug\net9.0\02 - AsyncAwait.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\bin\Debug\net9.0\02 - AsyncAwait.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\bin\Debug\net9.0\02 - AsyncAwait.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\refint\02 - AsyncAwait.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\02 - AsyncAwait.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\01 - CuestionarioTecnico1\02 - AsyncAwait\obj\Debug\net9.0\ref\02 - AsyncAwait.dll
