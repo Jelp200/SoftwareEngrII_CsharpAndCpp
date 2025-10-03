@@ -1,0 +1,15 @@
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.AssemblyInfoInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.AssemblyInfo.cs
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.csproj.CoreCompileInputs.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.sourcelink.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\bin\Debug\net9.0\Reto 3.exe
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\bin\Debug\net9.0\Reto 3.deps.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\bin\Debug\net9.0\Reto 3.runtimeconfig.json
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\bin\Debug\net9.0\Reto 3.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\bin\Debug\net9.0\Reto 3.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\refint\Reto 3.dll
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.pdb
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\Reto 3.genruntimeconfig.cache
+C:\Users\nikob\OneDrive\Escritorio\GRADUS_T_LOCAL\DPTO_COMPUTO\2025-02\SoftwareEngrII_CsharpAndCpp\03 - TechnicKnolagde\02 - CuewntionarioTecnico2\Reto 3\obj\Debug\net9.0\ref\Reto 3.dll
