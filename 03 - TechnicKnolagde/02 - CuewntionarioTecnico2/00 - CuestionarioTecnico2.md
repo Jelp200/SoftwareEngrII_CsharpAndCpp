@@ -9,10 +9,10 @@ Crear un script en SQL el cual cree la tabla, uno que inserte al menos 10 produc
 En primera instancia se crea la base de datos `TiendaDB` y la tabla `Productos` con la cual se trabajara.
 
 ```sql
-CREATE DATABASE IF NOT EXIST TiendaDB;
+CREATE DATABASE IF NOT EXISTS TiendaDB;
 USE TiendaDB;
 
-CREATE TABLE IF NOT EXIST Productos(
+CREATE TABLE IF NOT EXISTS Productos(
     producto_id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(50) NOT NULL,
     precio DECIMAL(10, 2) NOT NULL,
@@ -51,7 +51,7 @@ INSERT INTO Productos (nombre, precio, stock) VALUES
 |       **9**       | CD4011BE      | 6.00         | 35          |
 |       **10**      | LDR           | 3.00         | 60          |
 
-Una vez ya que se tienela tabla con la cual se estara trabajando, se codifica el programa en C# el cual permite consultar los productos con `Stock > 20`.
+Una vez ya que se tiene la tabla con la cual se estara trabajando, se codifica el programa en C# el cual permite consultar los productos con `Stock > 20`.
 
 ```cs
 using System;
@@ -85,12 +85,12 @@ Siendo la consulta SQL utilizada.
 USE Nombre, Stock FROM Productos WHERE Stock > 20;
 ```
 
-## :star2: [Reto 2 - C++ + SQL)](./Reto%202/)
+## :star2: [Reto 2 - C++ + SQL](./Reto%202/)
 
 Un sistema en C++ necesita consultar en la base de datos `Empleados(Nombre, Puesto, Salario)`. Escribir un pseudocódigo que se conecte vía ODBC y muestre a los empleados con `salario > 2500`.
 
 ```sql
-CREATE DATABASE IF NOT EXIST TiendaDB;
+CREATE DATABASE IF NOT EXISTS TiendaDB;
 USE TiendaDB;
 
 CREATE TABLE IF NOT EXISTS Empleados (
@@ -157,7 +157,7 @@ int main() {
 }
 ```
 
-## :star2: [Reto 3 - C# + C++)](./Reto%203/)
+## :star2: [Reto 3 - C# + C++](./Reto%203/)
 
 Un sistema tiene un backend en C++ que calcula datos pesados (ej. simulación física).
 
@@ -198,14 +198,14 @@ class Program
 }
 ```
 
-## :star2: [Reto 4 - SQL + Logica)](./Reto%204/)
+## :star2: [Reto 4 - SQL + Logica](./Reto%204/)
 
 Se tienen las siguientes tablas.
 
-`Clientes`
+- `Clientes`
 
 ```sql
-CREATE DATABASE IF NOT EXIST TiendaDB;
+CREATE DATABASE IF NOT EXISTS TiendaDB;
 USE TiendaDB;
 
 CREATE TABLE IF NOT EXISTS Clientes (
@@ -229,10 +229,10 @@ INSERT INTO Clientes (nombre) VALUES
 |       **4**      | Diego Rivera   |
 |       **5**      | Emiliano Villa |
 
-`Ventas`
+- `Ventas`
 
 ```sql
-CREATE DATABASE IF NOT EXIST TiendaDB;
+CREATE DATABASE IF NOT EXISTS TiendaDB;
 USE TiendaDB;
 
 CREATE TABLE IF NOT EXISTS Ventas (
@@ -290,7 +290,7 @@ LIMIT 1;
 |---------------|--------------|
 |  José Sánchez | 80000        |
 
-## :star2: [Reto 5 - Caso Full Stack)](./Reto%205/)
+## :star2: [Reto 5 - Caso Full Stack](./Reto%205/)
 
 Un sistema de control necesita.
 
