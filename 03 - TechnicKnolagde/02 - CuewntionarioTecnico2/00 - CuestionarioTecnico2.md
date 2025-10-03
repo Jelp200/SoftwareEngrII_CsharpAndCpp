@@ -1,6 +1,6 @@
 # CUESTIONARIO TÉCNICO 2 :question:
 
-## :star2: [Reto 1 - C# + SQL)](./Reto%201/)
+## :star2: [Reto 1 - C# + SQL](./Reto%201/)
 
 Se desea crear una tabla llamada `Productos` con los siguientes campos `Producto_ID`, `Nombre`, `Precio` y `Stock`.
 
